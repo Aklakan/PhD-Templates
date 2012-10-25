@@ -15,7 +15,8 @@ import org.aksw.sparqlify.util.MapReader;
 import org.aksw.sparqlify.util.SparqlifyUtils;
 import org.aksw.sparqlify.util.ViewDefinitionFactory;
 
-public class Main {
+
+public class ImporterR2RML {
 
 	public static void main(String[] args)
 		throws Exception
